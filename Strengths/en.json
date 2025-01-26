@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "question": "How do you handle unexpected challenges?",
+    "options": [
+      { "text": "I avoid them.", "weight": 1 },
+      { "text": "I feel overwhelmed but try my best.", "weight": 2 },
+      { "text": "I approach them cautiously and look for solutions.", "weight": 3 },
+      { "text": "I analyze the problem and act confidently.", "weight": 4 },
+      { "text": "I embrace them as opportunities for growth.", "weight": 5 }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "How adaptable are you to sudden changes in plans?",
+    "options": [
+      { "text": "I resist change and feel uncomfortable.", "weight": 1 },
+      { "text": "I struggle at first but eventually adjust.", "weight": 2 },
+      { "text": "I accept changes with minimal discomfort.", "weight": 3 },
+      { "text": "I adapt quickly and stay focused.", "weight": 4 },
+      { "text": "I thrive in ever-changing environments.", "weight": 5 }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "How do you react to feedback on your work?",
+    "options": [
+      { "text": "I feel criticized and demotivated.", "weight": 1 },
+      { "text": "I take it personally but try to improve.", "weight": 2 },
+      { "text": "I listen and make minor adjustments.", "weight": 3 },
+      { "text": "I value feedback and use it for growth.", "weight": 4 },
+      { "text": "I actively seek feedback to refine my skills.", "weight": 5 }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "How do you prioritize tasks during a busy day?",
+    "options": [
+      { "text": "I get overwhelmed and delay decisions.", "weight": 1 },
+      { "text": "I work on the easiest tasks first.", "weight": 2 },
+      { "text": "I prioritize based on urgency.", "weight": 3 },
+      { "text": "I prioritize based on importance and deadlines.", "weight": 4 },
+      { "text": "I create a clear plan and follow it efficiently.", "weight": 5 }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "How often do you take initiative at work or in life?",
+    "options": [
+      { "text": "Rarely; I prefer to follow others.", "weight": 1 },
+      { "text": "Occasionally, when required.", "weight": 2 },
+      { "text": "Often, in areas I am confident about.", "weight": 3 },
+      { "text": "Regularly, and I seek opportunities.", "weight": 4 },
+      { "text": "Consistently, as a natural leader.", "weight": 5 }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "How do you cope with failure?",
+    "options": [
+      { "text": "I dwell on my mistakes.", "weight": 1 },
+      { "text": "I struggle to move on but eventually do.", "weight": 2 },
+      { "text": "I learn from my failures and try again.", "weight": 3 },
+      { "text": "I use failures as stepping stones to success.", "weight": 4 },
+      { "text": "I embrace failure as part of the growth process.", "weight": 5 }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "How do you approach solving complex problems?",
+    "options": [
+      { "text": "I avoid them whenever possible.", "weight": 1 },
+      { "text": "I try but often give up.", "weight": 2 },
+      { "text": "I break them down into smaller parts.", "weight": 3 },
+      { "text": "I analyze them and find effective solutions.", "weight": 4 },
+      { "text": "I thrive on solving complex challenges.", "weight": 5 }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "How comfortable are you in taking risks?",
+    "options": [
+      { "text": "I avoid risks at all costs.", "weight": 1 },
+      { "text": "I take risks only when necessary.", "weight": 2 },
+      { "text": "I take calculated risks.", "weight": 3 },
+      { "text": "I embrace risks to achieve better outcomes.", "weight": 4 },
+      { "text": "I view risks as opportunities for innovation.", "weight": 5 }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "How do you respond to stressful situations?",
+    "options": [
+      { "text": "I get overwhelmed and shut down.", "weight": 1 },
+      { "text": "I struggle but try to manage.", "weight": 2 },
+      { "text": "I stay calm and look for solutions.", "weight": 3 },
+      { "text": "I remain focused and handle stress well.", "weight": 4 },
+      { "text": "I use stress as a motivator to perform better.", "weight": 5 }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "How persistent are you in achieving your goals?",
+    "options": [
+      { "text": "I give up at the first obstacle.", "weight": 1 },
+      { "text": "I try for a while but eventually stop.", "weight": 2 },
+      { "text": "I persist until I see some results.", "weight": 3 },
+      { "text": "I keep going despite difficulties.", "weight": 4 },
+      { "text": "I am relentless in pursuing my goals.", "weight": 5 }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "How do you handle conflicting information?",
+    "options": [
+      { "text": "I get confused and don't know what to believe.", "weight": 1 },
+      { "text": "I tend to believe the first thing I hear.", "weight": 2 },
+      { "text": "I try to find common ground between the information.", "weight": 3 },
+      { "text": "I analyze the sources and evidence to determine the most accurate information.", "weight": 4 },
+      { "text": "I actively seek out diverse perspectives to understand the full picture.", "weight": 5 }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "How effectively do you communicate your ideas to others?",
+    "options": [
+      { "text": "I often struggle to express myself clearly.", "weight": 1 },
+      { "text": "I can communicate adequately, but sometimes there are misunderstandings.", "weight": 2 },
+      { "text": "I communicate clearly most of the time.", "weight": 3 },
+      { "text": "I am a skilled communicator and can adapt my style to different audiences.", "weight": 4 },
+      { "text": "I am an excellent communicator and can inspire and persuade others with my words.", "weight": 5 }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "How well do you listen to others?",
+    "options": [
+      { "text": "I often find my mind wandering during conversations.", "weight": 1 },
+      { "text": "I listen politely, but I'm mostly thinking about my response.", "weight": 2 },
+      { "text": "I listen attentively and try to understand the speaker's perspective.", "weight": 3 },
+      { "text": "I am an active listener and ask clarifying questions to ensure understanding.", "weight": 4 },
+      { "text": "I am an empathetic listener and can understand both the spoken and unspoken messages.", "weight": 5 }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "How do you handle disagreements with others?",
+    "options": [
+      { "text": "I avoid conflict at all costs.", "weight": 1 },
+      { "text": "I get defensive and take disagreements personally.", "weight": 2 },
+      { "text": "I try to find a compromise that works for everyone.", "weight": 3 },
+      { "text": "I approach disagreements calmly and respectfully, focusing on finding a solution.", "weight": 4 },
+      { "text": "I view disagreements as opportunities for learning and growth.", "weight": 5 }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "How comfortable are you speaking in public?",
+    "options": [
+      { "text": "I feel very uncomfortable speaking in public.", "weight": 1 },
+      { "text": "I try to avoid public speaking, but I can manage it if I have to.", "weight": 2 },
+      { "text": "I can speak in public in small groups.", "weight": 3 },
+      { "text": "I speak confidently in public.", "weight": 4 },
+      { "text": "I am a skilled public speaker and can engage large audiences.", "weight": 5 }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "How do you build rapport with new people?",
+    "options": [
+      { "text": "I find it difficult to connect with new people.", "weight": 1 },
+      { "text": "I interact with new people in certain situations.", "weight": 2 },
+      { "text": "I make an effort to connect with new people.", "weight": 3 },
+      { "text": "I easily build rapport with new people.", "weight": 4 },
+      { "text": "I quickly connect with others and build strong relationships.", "weight": 5 }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "How well do you manage your time?",
+    "options": [
+      { "text": "I struggle to manage my time effectively.", "weight": 1 },
+      { "text": "I sometimes mismanage my time.", "weight": 2 },
+      { "text": "I manage my time reasonably well most of the time.", "weight": 3 },
+      { "text": "I manage my time very efficiently.", "weight": 4 },
+      { "text": "I am highly skilled at time management and effectively balance my tasks and commitments.", "weight": 5 }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "How organized is your workspace?",
+    "options": [
+      { "text": "My workspace is usually messy and disorganized.", "weight": 1 },
+      { "text": "My workspace is sometimes disorganized.", "weight": 2 },
+      { "text": "My workspace is usually organized and tidy.", "weight": 3 },
+      { "text": "My workspace is always organized and tidy.", "weight": 4 },
+      { "text": "I maintain an extremely organized and efficient workspace.", "weight": 5 }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "How do you handle multiple projects at once?",
+    "options": [
+      { "text": "I get easily overwhelmed and struggle to keep track of everything.", "weight": 1 },
+      { "text": "I can manage a few projects but struggle with many competing deadlines.", "weight": 2 },
+      { "text": "I can manage multiple projects by prioritizing and organizing my tasks.", "weight": 3 },
+      { "text": "I effectively manage multiple projects simultaneously and meet deadlines consistently.", "weight": 4 },
+      { "text": "I thrive in environments with multiple projects and can effectively delegate and coordinate tasks.", "weight": 5 }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "How do you set and achieve goals?",
+    "options": [
+      { "text": "I rarely set goals for myself.", "weight": 1 },
+      { "text": "I set goals but often struggle to achieve them.", "weight": 2 },
+      { "text": "I set realistic goals and achieve some of them.", "weight": 3 },
+      { "text": "I set challenging goals and consistently achieve them.", "weight": 4 },
+      { "text": "I set ambitious goals, create detailed plans, and systematically work towards achieving them.", "weight": 5 }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "How do you deal with distractions?",
+    "options": [
+      { "text": "I get easily distracted and find it hard to refocus.", "weight": 1 },
+      { "text": "I get distracted sometimes, but I can usually get back on track.", "weight": 2 },
+      { "text": "I can generally manage distractions and stay focused on my work.", "weight": 3 },
+      { "text": "I effectively minimize distractions and maintain a high level of focus.", "weight": 4 },
+      { "text": "I create a distraction-free environment and maintain unwavering focus on my tasks.", "weight": 5 }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "How comfortable are you delegating tasks to others?",
+    "options": [
+      { "text": "I prefer to do everything myself.", "weight": 1 },
+      { "text": "I find it difficult to trust others with important tasks.", "weight": 2 },
+      { "text": "I delegate some tasks when necessary.", "weight": 3 },
+      { "text": "I comfortably delegate tasks to appropriate team members.", "weight": 4 },
+      { "text": "I effectively delegate tasks to maximize team efficiency and development.", "weight": 5 }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "How do you motivate others?",
+    "options": [
+      { "text": "I don't usually try to motivate others.", "weight": 1 },
+      { "text": "I offer encouragement occasionally.", "weight": 2 },
+      { "text": "I try to motivate others through positive feedback and recognition.", "weight": 3 },
+      { "text": "I understand individual motivations and tailor my approach accordingly.", "weight": 4 },
+      { "text": "I inspire and empower others to achieve their full potential.", "weight": 5 }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "How do you handle conflict within a team?",
+    "options": [
+      { "text": "I avoid getting involved in team conflicts.", "weight": 1 },
+      { "text": "I try to smooth things over without addressing the root cause.", "weight": 2 },
+      { "text": "I try to facilitate communication between conflicting parties.", "weight": 3 },
+      { "text": "I address conflicts directly and work towards a constructive resolution.", "weight": 4 },
+      { "text": "I proactively address potential conflicts and foster a positive team environment.", "weight": 5 }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "How do you inspire others to achieve a common goal?",
+    "options": [
+      { "text": "I don't usually try to inspire others.", "weight": 1 },
+      { "text": "I occasionally offer encouragement.", "weight": 2 },
+      { "text": "I communicate the importance of the goal and the team's role in achieving it.", "weight": 3 },
+      { "text": "I create a shared vision and motivate others through enthusiasm and positive reinforcement.", "weight": 4 },
+      { "text": "I empower others to take ownership of the goal and provide them with the resources and support they need to succeed.", "weight": 5 }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "How do you identify opportunities for improvement?",
+    "options": [
+      { "text": "I rarely think about ways to improve things.", "weight": 1 },
+      { "text": "I notice obvious areas for improvement occasionally.", "weight": 2 },
+      { "text": "I actively look for ways to improve processes and outcomes.", "weight": 3 },
+      { "text": "I proactively identify and analyze areas for improvement, both large and small.", "weight": 4 },
+      { "text": "I foster a culture of continuous improvement and encourage others to contribute their ideas.", "weight": 5 }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "How do you bounce back from setbacks?",
+    "options": [
+      { "text": "I dwell on setbacks and find it hard to move on.", "weight": 1 },
+      { "text": "I struggle to recover from setbacks but eventually do.", "weight": 2 },
+      { "text": "I learn from setbacks and use them as motivation to try again.", "weight": 3 },
+      { "text": "I quickly recover from setbacks and maintain a positive outlook.", "weight": 4 },
+      { "text": "I use setbacks as opportunities for growth and resilience.", "weight": 5 }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "How do you handle criticism?",
+    "options": [
+      { "text": "I take criticism very personally and get upset.", "weight": 1 },
+      { "text": "I find it difficult to accept criticism, even when it's constructive.", "weight": 2 },
+      { "text": "I listen to criticism and try to learn from it.", "weight": 3 },
+      { "text": "I value constructive criticism and use it to improve my performance.", "weight": 4 },
+      { "text": "I actively solicit feedback and view criticism as an opportunity for growth.", "weight": 5 }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "How do you deal with uncertainty?",
+    "options": [
+      { "text": "I feel very anxious and uncomfortable with uncertainty.", "weight": 1 },
+      { "text": "I find uncertainty challenging but try to manage it.", "weight": 2 },
+      { "text": "I can tolerate uncertainty and adapt to changing circumstances.", "weight": 3 },
+      { "text": "I am comfortable with uncertainty and can make decisions even with limited information.", "weight": 4 },
+      { "text": "I embrace uncertainty as an opportunity for innovation and exploration.", "weight": 5 }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "How do you maintain a positive attitude in challenging times?",
+    "options": [
+      { "text": "I tend to focus on the negative and become discouraged.", "weight": 1 },
+      { "text": "I struggle to stay positive but try to find some positives.", "weight": 2 },
+      { "text": "I try to maintain a neutral perspective and focus on solutions.", "weight": 3 },
+      { "text": "I actively look for the positive aspects of the situation and maintain hope.", "weight": 4 },
+      { "text": "I am resilient and consistently maintain a positive attitude, even in the face of adversity.", "weight": 5 }
+    ]
+  }
+]
