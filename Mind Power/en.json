@@ -1,0 +1,334 @@
+[
+    {
+      "id": 1,
+      "question": "How easily do you lose focus when working on a task?",
+      "options": [
+        { "text": "Very easily; I get distracted constantly.", "weight": 1 },
+        { "text": "Somewhat easily; I lose focus occasionally.", "weight": 2 },
+        { "text": "I can maintain focus for a reasonable amount of time.", "weight": 3 },
+        { "text": "I can maintain focus for extended periods.", "weight": 4 },
+        { "text": "I have excellent concentration and rarely get distracted.", "weight": 5 }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "How would you rate your short-term memory?",
+      "options": [
+        { "text": "Very poor; I often forget things immediately.", "weight": 1 },
+        { "text": "Below average; I forget things fairly quickly.", "weight": 2 },
+        { "text": "Average; I can remember most things for a short time.", "weight": 3 },
+        { "text": "Above average; I have a good short-term memory.", "weight": 4 },
+        { "text": "Excellent; I have a very strong short-term memory.", "weight": 5 }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "How often do you use logic to solve problems?",
+      "options": [
+        { "text": "Rarely; I usually rely on intuition or guesswork.", "weight": 1 },
+        { "text": "Sometimes; I use logic when it seems necessary.", "weight": 2 },
+        { "text": "Often; I try to use logical reasoning most of the time.", "weight": 3 },
+        { "text": "Frequently; I almost always use logic to approach problems.", "weight": 4 },
+        { "text": "Consistently; I rely heavily on logic and analytical thinking.", "weight": 5 }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "How quickly can you learn and apply new information?",
+      "options": [
+        { "text": "Very slowly; I struggle to grasp new concepts.", "weight": 1 },
+        { "text": "Slowly; it takes me a while to learn new things.", "weight": 2 },
+        { "text": "At an average pace; I learn at a typical speed.", "weight": 3 },
+        { "text": "Quickly; I can learn new things fairly easily.", "weight": 4 },
+        { "text": "Very quickly; I am a fast learner and can apply new information effectively.", "weight": 5 }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "How well can you concentrate in a noisy environment?",
+      "options": [
+        { "text": "I cannot concentrate at all in noisy environments.", "weight": 1 },
+        { "text": "I find it very difficult to concentrate in noisy environments.", "weight": 2 },
+        { "text": "I can concentrate somewhat in noisy environments, but it's challenging.", "weight": 3 },
+        { "text": "I can usually concentrate well even with some noise.", "weight": 4 },
+        { "text": "I can concentrate effectively even in very noisy environments.", "weight": 5 }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "How often do you engage in activities that challenge your mind (e.g., puzzles, strategy games)?",
+      "options": [
+        { "text": "Rarely or never.", "weight": 1 },
+        { "text": "Occasionally.", "weight": 2 },
+        { "text": "Sometimes.", "weight": 3 },
+        { "text": "Often.", "weight": 4 },
+        { "text": "Very often; I actively seek out mental challenges.", "weight": 5 }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "How would you rate your ability to think critically?",
+      "options": [
+        { "text": "Very low; I struggle to analyze information effectively.", "weight": 1 },
+        { "text": "Below average; I sometimes struggle with critical thinking.", "weight": 2 },
+        { "text": "Average; I can think critically in most situations.", "weight": 3 },
+        { "text": "Above average; I have good critical thinking skills.", "weight": 4 },
+        { "text": "Excellent; I am a highly analytical and critical thinker.", "weight": 5 }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "How well can you recall details from past events?",
+      "options": [
+        { "text": "Very poorly; I have difficulty remembering past events.", "weight": 1 },
+        { "text": "Below average; my recall of past events is not very good.", "weight": 2 },
+        { "text": "Average; I can recall some details from past events.", "weight": 3 },
+        { "text": "Above average; I have a good memory for past events.", "weight": 4 },
+        { "text": "Excellent; I have a very strong memory for past events and details.", "weight": 5 }
+      ]
+    },
+      {
+          "id": 9,
+          "question": "How easily do you learn new procedures or processes?",
+          "options": [
+              { "text": "I find it very difficult to learn new procedures.", "weight": 1 },
+              { "text": "It takes me a long time to learn new procedures.", "weight": 2 },
+              { "text": "I learn new procedures at an average pace.", "weight": 3 },
+              { "text": "I learn new procedures quickly.", "weight": 4 },
+              { "text": "I learn and adapt to new procedures very quickly and efficiently.", "weight": 5 }
+          ]
+      },
+      {
+          "id": 10,
+          "question": "How often do you reflect on your thoughts and actions?",
+          "options": [
+              { "text": "Rarely or never.", "weight": 1 },
+              { "text": "Occasionally.", "weight": 2 },
+              { "text": "Sometimes.", "weight": 3 },
+              { "text": "Often.", "weight": 4 },
+              { "text": "Very often; I regularly engage in self-reflection.", "weight": 5 }
+          ]
+      },
+        {
+          "id": 11,
+          "question": "How well can you analyze complex information?",
+          "options": [
+            { "text": "I find it very difficult to understand complex information.", "weight": 1 },
+            { "text": "I struggle to analyze complex information effectively.", "weight": 2 },
+            { "text": "I can analyze complex information with some effort.", "weight": 3 },
+            { "text": "I can analyze complex information fairly well.", "weight": 4 },
+            { "text": "I am highly skilled at analyzing complex information and identifying key insights.", "weight": 5 }
+          ]
+        },
+        {
+          "id": 12,
+          "question": "How easily can you switch between different tasks?",
+          "options": [
+            { "text": "I find it very difficult to switch between tasks and lose my train of thought.", "weight": 1 },
+            { "text": "Switching between tasks disrupts my focus and productivity.", "weight": 2 },
+            { "text": "I can switch between tasks with some effort.", "weight": 3 },
+            { "text": "I can switch between tasks fairly easily.", "weight": 4 },
+            { "text": "I am very good at multitasking and switching between tasks efficiently.", "weight": 5 }
+          ]
+        },
+        {
+          "id": 13,
+          "question": "How would you rate your problem-solving skills?",
+          "options": [
+            { "text": "Very poor; I struggle to find solutions to problems.", "weight": 1 },
+            { "text": "Below average; I sometimes struggle with problem-solving.", "weight": 2 },
+            { "text": "Average; I can solve most everyday problems.", "weight": 3 },
+            { "text": "Above average; I am a good problem solver.", "weight": 4 },
+            { "text": "Excellent; I am a highly effective and creative problem solver.", "weight": 5 }
+          ]
+        },
+        {
+          "id": 14,
+          "question": "How often do you think creatively to find new solutions?",
+          "options": [
+            { "text": "Rarely or never.", "weight": 1 },
+            { "text": "Occasionally, when necessary.", "weight": 2 },
+            { "text": "Sometimes, when I have time.", "weight": 3 },
+            { "text": "Often, I try to find creative solutions.", "weight": 4 },
+            { "text": "Very often; I actively seek out opportunities for creative problem-solving.", "weight": 5 }
+          ]
+        },
+        {
+          "id": 15,
+          "question": "How well can you remember names and faces?",
+          "options": [
+            { "text": "Very poorly; I have a hard time remembering both names and faces.", "weight": 1 },
+            { "text": "Below average; I struggle to remember names or faces.", "weight": 2 },
+            { "text": "Average; I can remember some names and faces.", "weight": 3 },
+            { "text": "Above average; I have a good memory for names and faces.", "weight": 4 },
+            { "text": "Excellent; I have a very strong memory for names and faces.", "weight": 5 }
+          ]
+        },
+        {
+          "id": 16,
+          "question": "How quickly can you adapt to unexpected changes in a situation?",
+          "options": [
+            { "text": "I find it very difficult to adapt to unexpected changes.", "weight": 1 },
+            { "text": "It takes me a while to adjust to unexpected changes.", "weight": 2 },
+            { "text": "I can adapt to most unexpected changes with some effort.", "weight": 3 },
+            { "text": "I adapt to unexpected changes quickly and effectively.", "weight": 4 },
+            { "text": "I thrive in situations with unexpected changes and adapt seamlessly.", "weight": 5 }
+          ]
+        },
+        {
+          "id": 17,
+          "question": "How often do you make mental calculations or estimates?",
+          "options": [
+            { "text": "Rarely or never.", "weight": 1 },
+            { "text": "Occasionally, when needed.", "weight": 2 },
+            { "text": "Sometimes, in everyday situations.", "weight": 3 },
+            { "text": "Often, I frequently make mental calculations.", "weight": 4 },
+            { "text": "Very often; I am constantly making mental calculations and estimates.", "weight": 5 }
+          ]
+        },
+        {
+          "id": 18,
+          "question": "How would you describe your ability to think abstractly?",
+          "options": [
+            { "text": "Very low; I struggle with abstract concepts.", "weight": 1 },
+            { "text": "Below average; I sometimes have difficulty with abstract thinking.", "weight": 2 },
+            { "text": "Average; I can understand and work with abstract concepts to some extent.", "weight": 3 },
+            { "text": "Above average; I am comfortable with abstract thinking.", "weight": 4 },
+            { "text": "Excellent; I am highly skilled at abstract thinking and can easily grasp complex theoretical concepts.", "weight": 5 }
+          ]
+        },
+          {
+              "id": 19,
+              "question": "How well can you remember visual details?",
+              "options": [
+                  { "text": "Very poorly; I have a hard time remembering visual information.", "weight": 1 },
+                  { "text": "Below average; my visual memory is not very strong.", "weight": 2 },
+                  { "text": "Average; I can remember some visual details.", "weight": 3 },
+                  { "text": "Above average; I have a good visual memory.", "weight": 4 },
+                  { "text": "Excellent; I have a very strong visual memory and can recall details with great accuracy.", "weight": 5 }
+              ]
+          },
+          {
+              "id": 20,
+              "question": "How often do you analyze the potential consequences of your decisions?",
+              "options": [
+                  { "text": "Rarely or never.", "weight": 1 },
+                  { "text": "Occasionally, for important decisions.", "weight": 2 },
+                  { "text": "Sometimes, I consider the immediate consequences.", "weight": 3 },
+                  { "text": "Often, I try to think through the potential outcomes.", "weight": 4 },
+                  { "text": "Very often; I thoroughly analyze the potential short-term and long-term consequences of my decisions.", "weight": 5 }
+              ]
+          }
+          ,
+            {
+              "id": 21,
+              "question": "How well do you handle mental pressure or stress?",
+              "options": [
+                { "text": "I become easily overwhelmed and struggle to function under pressure.", "weight": 1 },
+                { "text": "I find it difficult to perform well under significant pressure.", "weight": 2 },
+                { "text": "I can generally manage mental pressure and stress.", "weight": 3 },
+                { "text": "I perform well under pressure and can stay focused.", "weight": 4 },
+                { "text": "I thrive under pressure and can maintain peak mental performance.", "weight": 5 }
+              ]
+            },
+            {
+              "id": 22,
+              "question": "How often do you use mental imagery or visualization techniques?",
+              "options": [
+                { "text": "Rarely or never.", "weight": 1 },
+                { "text": "Occasionally, when trying to remember something.", "weight": 2 },
+                { "text": "Sometimes, for planning or problem-solving.", "weight": 3 },
+                { "text": "Often, I use visualization to enhance my focus and memory.", "weight": 4 },
+                { "text": "Very often; I regularly use mental imagery and visualization in various aspects of my life.", "weight": 5 }
+              ]
+            },
+            {
+              "id": 23,
+              "question": "How quickly can you identify patterns or connections between seemingly unrelated things?",
+              "options": [
+                { "text": "I find it very difficult to identify patterns or connections.", "weight": 1 },
+                { "text": "I sometimes struggle to see connections between things.", "weight": 2 },
+                { "text": "I can identify some patterns and connections.", "weight": 3 },
+                { "text": "I am good at identifying patterns and making connections.", "weight": 4 },
+                { "text": "I am highly skilled at identifying complex patterns and connections, even in seemingly disparate information.", "weight": 5 }
+              ]
+            },
+            {
+              "id": 24,
+              "question": "How would you rate your ability to concentrate for extended periods?",
+              "options": [
+                { "text": "Very low; I cannot concentrate for very long at all.", "weight": 1 },
+                { "text": "Below average; my concentration span is quite short.", "weight": 2 },
+                { "text": "Average; I can concentrate for a reasonable amount of time.", "weight": 3 },
+                { "text": "Above average; I have a good concentration span.", "weight": 4 },
+                { "text": "Excellent; I can maintain deep concentration for extended periods without difficulty.", "weight": 5 }
+              ]
+            },
+            {
+              "id": 25,
+              "question": "How often do you engage in activities that require sustained mental effort (e.g., reading complex texts, learning a new language)?",
+              "options": [
+                { "text": "Rarely or never.", "weight": 1 },
+                { "text": "Occasionally.", "weight": 2 },
+                { "text": "Sometimes.", "weight": 3 },
+                { "text": "Often.", "weight": 4 },
+                { "text": "Very often; I regularly challenge myself with mentally demanding activities.", "weight": 5 }
+              ]
+            },
+            {
+              "id": 26,
+              "question": "How well can you filter out irrelevant information when trying to focus on a task?",
+              "options": [
+                { "text": "I am easily overwhelmed by irrelevant information and struggle to focus.", "weight": 1 },
+                { "text": "I find it difficult to ignore irrelevant information.", "weight": 2 },
+                { "text": "I can usually filter out most irrelevant information.", "weight": 3 },
+                { "text": "I am good at filtering out irrelevant information and staying focused on the task at hand.", "weight": 4 },
+                { "text": "I am highly skilled at filtering out irrelevant information and maintaining laser-like focus.", "weight": 5 }
+              ]
+            },
+            {
+              "id": 27,
+              "question": "How would you rate your ability to think logically and rationally under pressure?",
+              "options": [
+                { "text": "Very low; I struggle to think clearly under pressure.", "weight": 1 },
+                { "text": "Below average; my logical thinking is impaired under pressure.", "weight": 2 },
+                { "text": "Average; I can usually think logically even under some pressure.", "weight": 3 },
+                { "text": "Above average; I can maintain clear and logical thinking even in stressful situations.", "weight": 4 },
+                { "text": "Excellent; I am highly effective at thinking logically and rationally, even under intense pressure.", "weight": 5 }
+              ]
+            },
+            {
+              "id": 28,
+              "question": "How often do you try to improve your memory or cognitive skills?",
+              "options": [
+                { "text": "Rarely or never.", "weight": 1 },
+                { "text": "Occasionally, when I notice a problem.", "weight": 2 },
+                { "text": "Sometimes, I try simple memory exercises.", "weight": 3 },
+                { "text": "Often, I actively use strategies to improve my memory and cognitive function.", "weight": 4 },
+                { "text": "Very often; I am consistently working to enhance my cognitive abilities through various techniques and practices.", "weight": 5 }
+              ]
+            },
+              {
+                  "id": 29,
+                  "question": "How well can you hold multiple pieces of information in your mind at once?",
+                  "options": [
+                      { "text": "Very poorly; I struggle to hold even a few pieces of information in mind.", "weight": 1 },
+                      { "text": "Below average; I can only hold a limited amount of information in my working memory.", "weight": 2 },
+                      { "text": "Average; I can hold a reasonable amount of information in my mind.", "weight": 3 },
+                      { "text": "Above average; I have a good working memory and can hold multiple pieces of information simultaneously.", "weight": 4 },
+                      { "text": "Excellent; I have a very strong working memory and can easily juggle multiple pieces of information.", "weight": 5 }
+                  ]
+              },
+              {
+                  "id": 30,
+                  "question": "How often do you engage in activities that require strategic thinking and planning?",
+                  "options": [
+                      { "text": "Rarely or never.", "weight": 1 },
+                      { "text": "Occasionally, for important events or projects.", "weight": 2 },
+                      { "text": "Sometimes, in work or personal life.", "weight": 3 },
+                      { "text": "Often, I frequently use strategic thinking and planning.", "weight": 4 },
+                      { "text": "Very often; I consistently use strategic thinking and planning in various aspects of my life and work.", "weight": 5 }
+                  ]
+              }
+          
+  ]
