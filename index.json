@@ -1,0 +1,177 @@
+[
+    {
+        "id": 1,
+        "name": "Strengths",
+        "details": "Measures problem-solving, adaptability, and resilience."
+    },
+    {
+        "id": 2,
+        "name": "Mind Power",
+        "details": "Assesses logical thinking, focus, and memory."
+    },
+    {
+        "id": 3,
+        "name": "Personal Power",
+        "details": "Gauges leadership, decision-making, and influence."
+    },
+    {
+        "id": 4,
+        "name": "Honesty and Ethics",
+        "details": "Evaluates moral integrity and reliability."
+    },
+    {
+        "id": 5,
+        "name": "Emotional Intelligence",
+        "details": "Analyzes empathy, self-awareness, and relationships."
+    },
+    {
+        "id": 6,
+        "name": "Creativity",
+        "details": "Measures imagination, innovation, and originality."
+    },
+    {
+        "id": 7,
+        "name": "Self-Discipline",
+        "details": "Tests consistency, focus, and work ethic."
+    },
+    {
+        "id": 8,
+        "name": "Communication Skills",
+        "details": "Assesses clarity, listening, and interpersonal communication."
+    },
+    {
+        "id": 9,
+        "name": "Time Management",
+        "details": "Evaluates efficiency, organization, and prioritization."
+    },
+    {
+        "id": 10,
+        "name": "Conflict Resolution",
+        "details": "Measures the ability to handle disputes and find solutions."
+    },
+    {
+        "id": 11,
+        "name": "Decision-Making",
+        "details": "Gauges logical, informed, and quick decision-making abilities."
+    },
+    {
+        "id": 12,
+        "name": "Teamwork",
+        "details": "Assesses collaboration, cooperation, and reliability within a group."
+    },
+    {
+        "id": 13,
+        "name": "Adaptability",
+        "details": "Measures flexibility, openness to change, and resilience."
+    },
+    {
+        "id": 14,
+        "name": "Confidence",
+        "details": "Evaluates self-belief, assertiveness, and courage."
+    },
+    {
+        "id": 15,
+        "name": "Physical Wellness",
+        "details": "Tracks fitness, health, and overall physical well-being."
+    },
+    {
+        "id": 16,
+        "name": "Mental Health Awareness",
+        "details": "Measures awareness and practices for emotional and mental health."
+    },
+    {
+        "id": 17,
+        "name": "Social Skills",
+        "details": "Assesses friendliness, empathy, and ability to form connections."
+    },
+    {
+        "id": 18,
+        "name": "Problem Solving",
+        "details": "Tests analytical, creative, and practical problem-solving skills."
+    },
+    {
+        "id": 19,
+        "name": "Focus and Concentration",
+        "details": "Evaluates attention span and ability to stay on task."
+    },
+    {
+        "id": 20,
+        "name": "Learning Ability",
+        "details": "Gauges how quickly and effectively one can acquire new knowledge."
+    },
+    {
+        "id": 21,
+        "name": "Leadership",
+        "details": "Assesses the ability to inspire and guide others toward goals."
+    },
+    {
+        "id": 22,
+        "name": "Resource Management",
+        "details": "Measures how well you manage resources like time, money, and energy."
+    },
+    {
+        "id": 23,
+        "name": "Risk Management",
+        "details": "Evaluates the ability to identify, assess, and mitigate risks."
+    },
+    {
+        "id": 24,
+        "name": "Empathy",
+        "details": "Analyzes the capacity to understand and share the feelings of others."
+    },
+    {
+        "id": 25,
+        "name": "Persuasion and Negotiation",
+        "details": "Tests the ability to influence, persuade, and negotiate effectively."
+    },
+    {
+        "id": 26,
+        "name": "Goal Setting",
+        "details": "Evaluates your ability to set realistic and actionable goals."
+    },
+    {
+        "id": 27,
+        "name": "Financial Literacy",
+        "details": "Measures knowledge and skills related to managing personal finances."
+    },
+    {
+        "id": 28,
+        "name": "Critical Thinking",
+        "details": "Assesses logical analysis, evaluation, and decision-making skills."
+    },
+    {
+        "id": 29,
+        "name": "Innovation",
+        "details": "Measures the ability to think outside the box and create new ideas."
+    },
+    {
+        "id": 30,
+        "name": "Self-Awareness",
+        "details": "Analyzes understanding of personal strengths, weaknesses, and emotions."
+    },
+    {
+        "id": 31,
+        "name": "Resilience",
+        "details": "Measures emotional toughness and the ability to bounce back from setbacks."
+    },
+    {
+        "id": 32,
+        "name": "Work-Life Balance",
+        "details": "Assesses the ability to manage personal and professional life effectively."
+    },
+    {
+        "id": 33,
+        "name": "Cultural Awareness",
+        "details": "Evaluates understanding and respect for different cultures and perspectives."
+    },
+    {
+        "id": 34,
+        "name": "Networking Skills",
+        "details": "Tests the ability to build and maintain professional relationships."
+    },
+    {
+        "id": 35,
+        "name": "Stress Management",
+        "details": "Analyzes techniques and strategies to manage stress effectively."
+    }
+]
